@@ -1,4 +1,4 @@
-Crear un proyecto de React altamente escalable con un buen scaffolding y configuraciones modernas, junto con librerías útiles, puede facilitar el desarrollo y mantenimiento del proyecto. A continuación, te muestro los pasos detallados para lograrlo:
+Crear un proyecto de React altamente escalable con un buen scaffolding y configuraciones modernas, junto con librerías útiles, puede facilitar el desarrollo y mantenimiento del proyecto.
 
 ---
 
